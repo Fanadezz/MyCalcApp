@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCalcApp</string>
+    <string name="divide_sign">Divide</string>
+    <string name="substract_sign">Subtract</string>
+    <string name="add_sign">Add</string>
+    <string name="multiply_sign">Multiply</string>
+</resources>
